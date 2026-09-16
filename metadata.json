@@ -1,0 +1,10 @@
+{
+  "name": "PathFinder - Maps & Navigation",
+  "description": "PathFinder is a modern maps and navigation app for searching locations, discovering nearby places, planning routes, and exploring destinations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
